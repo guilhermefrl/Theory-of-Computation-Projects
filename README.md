@@ -1,4 +1,4 @@
-# Theory-of-Computation-Projects
+# Theory of Computation Projects
 
 ## Objective
 
